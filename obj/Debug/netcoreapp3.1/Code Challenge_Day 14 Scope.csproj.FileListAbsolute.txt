@@ -1,0 +1,13 @@
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\bin\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.exe
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\bin\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.deps.json
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\bin\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.runtimeconfig.json
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\bin\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.runtimeconfig.dev.json
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\bin\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.dll
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\bin\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.pdb
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\obj\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.csprojAssemblyReference.cache
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\obj\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.AssemblyInfoInputs.cache
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\obj\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.AssemblyInfo.cs
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\obj\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.csproj.CoreCompileInputs.cache
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\obj\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.dll
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\obj\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.pdb
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 14 Scope\obj\Debug\netcoreapp3.1\Code Challenge_Day 14 Scope.genruntimeconfig.cache
